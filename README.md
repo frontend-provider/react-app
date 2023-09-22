@@ -1,4 +1,4 @@
-# Create React App TypeScript Todo Example 2020 
+ # Create React App TypeScript Todo Example 2020 
 
 
 ## 🗒 Note
